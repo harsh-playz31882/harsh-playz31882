@@ -1,4 +1,5 @@
-![Banner](https://github.com/harsh-playz31882/harsh-playz31882/assets/134230102/ac10575e-2ce1-458a-82e9-9740f14ca596)
+![Banner](https://github.com/harsh-playz31882/harsh-playz31882/assets/134230102/262f83c2-ee0d-4b89-9dea-eacb8e29e35f)
+
 
 
 <h1 align="center">Hi 👋, I'm Harsh Jethwa</h1>
