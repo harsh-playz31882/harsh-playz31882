@@ -9,8 +9,6 @@
 
 - 📫 Contact me for more projects **harsh31882@gmail.com**
 
-- 📄 Know about my experiences [working on it](working on it)
-
 - ⚡ Fun fact **The first computer programmer was Ada Lovelace, a Mathematician of 19th century, but the fun fact is I copied fun fact from chat gpt**
 
 <h3 align="left">Connect with me:</h3>
