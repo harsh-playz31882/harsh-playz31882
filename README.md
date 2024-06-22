@@ -1,8 +1,5 @@
 ![Banner](https://github.com/harsh-playz31882/harsh-playz31882/assets/134230102/a85366a9-d911-4108-be44-044a4adb5d51)
 
-
-
-
 <h1 align="center">Hi 👋, I'm Harsh Jethwa</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
@@ -10,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/harsh-playz31882?tab=repositories](https://github.com/harsh-playz31882?tab=repositories)
 
-- 📫 How to reach me **harsh31882@gmail.com**
+- 📫 Contact me for more projects **harsh31882@gmail.com**
 
 - 📄 Know about my experiences [working on it](working on it)
 
-- ⚡ Fun fact **I am a Hardcore Gamer**
+- ⚡ Fun fact **The first computer programmer was Ada Lovelace, a Mathematician of 19th century, but the fun fact is I copied fun fact from chat gpt**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
