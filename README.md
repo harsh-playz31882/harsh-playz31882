@@ -10,7 +10,7 @@
 
 - 📫 Contact me for more projects **harsh31882@gmail.com**
 
-- ⚡ Fun fact **The first computer programmer was Ada Lovelace, a Mathematician of 19th century, but the fun fact is I copied fun fact from chat gpt**
+- ⚡ Fun fact **Python has a module called antigravity which, when imported, opens a web browser pointing to a classic xkcd comic about Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
