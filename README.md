@@ -1,19 +1,23 @@
 ![Banner](https://github.com/harsh-playz31882/harsh-playz31882/assets/134230102/a85366a9-d911-4108-be44-044a4adb5d51)
 
-
 <h1 align="center">Hi 👋, I'm Harsh Jethwa</h1>
-<h3 align="center">A passionate python developer from India</h3>
+<h3 align="center">A passionate python developer and tech enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-playz31882&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-playz31882" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/harsh-playz31882?tab=repositories](https://github.com/harsh-playz31882?tab=repositories)
 
-- 📫 Contact me for more projects **harsh31882@gmail.com**
+- 📫 Contact me for any help **harsh31882@gmail.com**
 
 - ⚡ Fun fact **Python has a module called antigravity which, when imported, opens a web browser pointing to a classic xkcd comic about Python**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/@harshplayz31882" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@harshplayz31882" height="30" width="40" /></a>
 <a href="https://discord.gg/harshplayz_55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="harshplayz_55" height="30" width="40" /></a>
 </p>
 
