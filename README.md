@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-playz31882&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-playz31882" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/harsh-playz31882?tab=repositories](https://github.com/harsh-playz31882?tab=repositories)
-- Currently working on TensorFlow
 
 - Telegram username [@Harsh_31882](@Harsh_31882)
 
