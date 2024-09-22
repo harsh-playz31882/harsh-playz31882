@@ -1,5 +1,5 @@
-![Banner](![I2fII8e](https://github.com/user-attachments/assets/c1e14436-13aa-42ad-b09c-bfea832af4e0)
-)
+![Banner]![I2fII8e](https://github.com/user-attachments/assets/978428b3-f769-44db-a9d1-f0cd73a56736)
+
 
 <h1 align="center">Hi 👋, I'm Harsh Jethwa</h1>
 <h3 align="center">A Transitional python developer from India</h3>
