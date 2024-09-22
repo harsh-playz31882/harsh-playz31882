@@ -1,4 +1,5 @@
-![Banner]![I2fII8e](https://github.com/user-attachments/assets/978428b3-f769-44db-a9d1-f0cd73a56736)
+![Banner]![ngPEfyE-technology-wallpaper](https://github.com/user-attachments/assets/32997e1d-9499-4dda-b2c9-02d81c25a1f5)
+
 
 
 <h1 align="center">Hi 👋, I'm Harsh Jethwa</h1>
