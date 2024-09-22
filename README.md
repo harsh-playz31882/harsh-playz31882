@@ -1,4 +1,5 @@
-![Banner](https://github.com/harsh-playz31882/harsh-playz31882/assets/134230102/a85366a9-d911-4108-be44-044a4adb5d51)
+![Banner](![I2fII8e](https://github.com/user-attachments/assets/dc3f6013-53ad-440d-b9de-04f0f37dbc66)
+)
 
 <h1 align="center">Hi 👋, I'm Harsh Jethwa</h1>
 <h3 align="center">A passionate python developer from India</h3>
