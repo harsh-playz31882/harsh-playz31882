@@ -1,4 +1,4 @@
-![Banner]![ngPEfyE-technology-wallpaper](https://github.com/user-attachments/assets/32997e1d-9499-4dda-b2c9-02d81c25a1f5)
+![ngPEfyE-technology-wallpaper](https://github.com/user-attachments/assets/32997e1d-9499-4dda-b2c9-02d81c25a1f5)
 
 
 
