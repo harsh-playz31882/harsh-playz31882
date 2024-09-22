@@ -1,4 +1,4 @@
-![Banner](![I2fII8e](https://github.com/user-attachments/assets/f68f608d-5dc9-4f13-9087-c874597f674e)
+![Banner](![I2fII8e](https://github.com/user-attachments/assets/c1e14436-13aa-42ad-b09c-bfea832af4e0)
 )
 
 <h1 align="center">Hi 👋, I'm Harsh Jethwa</h1>
@@ -8,11 +8,12 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/harsh-playz31882?tab=repositories](https://github.com/harsh-playz31882?tab=repositories)
 
-- Telegram username [@Harsh_31882](@Harsh_31882)
 
 - 📫 Contact me for any help **harsh31882@gmail.com**
 
 - Linkedin [https://www.linkedin.com/in/harsh-jethwa-a115581b8/](https://www.linkedin.com/in/harsh-jethwa-a115581b8/)
+- - Telegram username [@Harsh_31882](@Harsh_31882)
+  - Discord Username  harshplayz_55
 
 - ⚡ Fun fact **Python has a module called antigravity which, when imported, opens a web browser pointing to a classic xkcd comic about Python**
 
