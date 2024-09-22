@@ -11,10 +11,10 @@
 
 
 - 📫 Contact me for any help **harsh31882@gmail.com**
-
-- Linkedin [https://www.linkedin.com/in/harsh-jethwa-a115581b8/](https://www.linkedin.com/in/harsh-jethwa-a115581b8/)
 - - Telegram username [@Harsh_31882](@Harsh_31882)
   - Discord Username -  harshplayz_55
+ 
+  - - Linkedin [https://www.linkedin.com/in/harsh-jethwa-a115581b8/](https://www.linkedin.com/in/harsh-jethwa-a115581b8/)(inactive currently)
 
 - ⚡ Fun fact **Python has a module called antigravity which, when imported, opens a web browser pointing to a classic xkcd comic about Python**
 
