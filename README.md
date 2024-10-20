@@ -19,6 +19,7 @@
   - - Linkedin [https://www.linkedin.com/in/harsh-jethwa-a115581b8/](https://www.linkedin.com/in/harsh-jethwa-a115581b8/)(inactive currently)
 
 - ⚡ Fun fact **Python has a module called antigravity which, when imported, opens a web browser pointing to a classic xkcd comic about Python**
+- Don't Forget to check out my_important_scripts repository, there are some cool scripts you may like
 - Hardcore Gamer
 
 
