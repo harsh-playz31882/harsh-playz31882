@@ -10,7 +10,7 @@
 
 - Contact me for any help [harsh31882@gmail.com](harsh31882@gmail.com)
 
-- Discord Username - harshplayz_55 [https://discord.com/invite/p7cYxW2Zzv](https://discord.com/invite/p7cYxW2Zzv)
+- Discord Username-  harshplayz_55
 
 - buymeacoffee [https://buymeacoffee.com/harsh_jethwa](https://buymeacoffee.com/harsh_jethwa)
 
