@@ -12,7 +12,11 @@
 
 - Discord Username - harshplayz_55 [https://discord.com/invite/p7cYxW2Zzv](https://discord.com/invite/p7cYxW2Zzv)
 
-- buymeacoffee [https://buymeacoffee.com/harsh_jethwa](https://buymeacoffee.com/harsh_jethwa)
+- Learning Game Development in Unreal Engine
+- Want to develop an immersive 3D fighting game PROJECT: Eclipse
+-  need a good team of students who want to learn unreal engine and work in this project
+- dm me on discord if Interested in this project
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
