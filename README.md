@@ -1,5 +1,9 @@
+![Screenshot 2024-09-22 123654](https://github.com/user-attachments/assets/7bc18adb-415a-4165-b349-fe85915d98a0)
+
+
 <h1 align="center">Hi 👋, I'm Harsh Jethwa</h1>
 <h3 align="center">A Tech Enthusiast and Game Developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-playz31882&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-playz31882" /> </p>
 
