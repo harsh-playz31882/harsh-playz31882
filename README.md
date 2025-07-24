@@ -31,4 +31,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh-playz31882&show_icons=true&locale=en" alt="harsh-playz31882" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-playz31882&" alt="harsh-playz31882" /></p>
