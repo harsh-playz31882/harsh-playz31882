@@ -11,23 +11,10 @@
 
 ---
 
-### 🛠️ Skills & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
----
-
-### 🌟 Featured Projects
+###  Featured Projects
 #### 🎮 [Project Eclipse](https://github.com/harsh-playz31882/Project_Eclipse)
-*3D Fighting Game with Story Mode & Multiplayer, built in Unreal Engine*  
-- 🕹️ Indie game with **real-time combat mechanics**  
-- 🌐 **Multiplayer system** & collision handling  
-- 🎨 Built using **C++, Unreal Engine, and AI mechanics**  
+*3D Fighting Game with Story Mode & Multiplayer, built in Unreal Engine*    
+- using **C++ with Unreal Engine Blueprint Editor hybrid**  
 
 #### 📜 [ML2](https://github.com/harsh-playz31882/ML2)
 *Hands-on Machine Learning Notebooks*  
