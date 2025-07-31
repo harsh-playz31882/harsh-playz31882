@@ -16,11 +16,6 @@
 *3D Fighting Game with Story Mode & Multiplayer, built in Unreal Engine*    
 - using **C++ with Unreal Engine Blueprint Editor hybrid**  
 
-#### 📜 [ML2](https://github.com/harsh-playz31882/ML2)
-*Hands-on Machine Learning Notebooks*  
-- Covers **Scikit-Learn, Keras, and Deep Learning basics**  
-- Beginner-friendly **step-by-step ML projects**  
-
 ---
 
 ### 📊 GitHub Stats
