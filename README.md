@@ -35,7 +35,6 @@
 
 ---
 
-⭐ *Check out my repositories for more projects and experiments in AI & Game Development!*
 
 
 <h3 align="left">Languages and Tools:</h3>
