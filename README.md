@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh-playz31882" alt="harsh-playz31882" /></a> </p>
 
-- 🔭 I’m currently working on **Project Eclipse, A 3D Fighting Game with Story type and Multiplayer in Unreal Engine**
+- 🔭 I’m currently working on **Project Eclipse – a 3D Fighting Game with Story Mode and Multiplayer, built in Unreal Engine.**
 
 
 - 👨‍💻 All of my projects are available at [- All of my projects are available at [https://github.com/harsh-playz31882?tab=repositories](https://github.com/harsh-playz31882?tab=repositories)](- All of my projects are available at [https://github.com/harsh-playz31882?tab=repositories](https://github.com/harsh-playz31882?tab=repositories))
