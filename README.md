@@ -10,9 +10,6 @@
 
 - 🔭 I’m currently working on **Project Eclipse, A 3D Fighting Game with Story type and Multiplayer in Unreal Engine**
 
--  I’m currently learning **Multiplayer system and Collisions in Unreal Engine**
-
-- 🤝 I’m looking for help with **some unreal engine Indie developers who are interested in this as a team**
 
 - 👨‍💻 All of my projects are available at [- All of my projects are available at [https://github.com/harsh-playz31882?tab=repositories](https://github.com/harsh-playz31882?tab=repositories)](- All of my projects are available at [https://github.com/harsh-playz31882?tab=repositories](https://github.com/harsh-playz31882?tab=repositories))
 
