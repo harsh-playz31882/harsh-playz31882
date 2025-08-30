@@ -8,7 +8,7 @@
 - 🎓 2nd-year CS student specializing in **AI & Data Structures**  
 - 🎮 Indie Game Developer, currently working on **Project Eclipse**  
 -  Exploring **multiplayer systems** and **game physics in Unreal Engine** 
-
+- Selling Game Assets on FAB, check out the FORGE https://www.fab.com/sellers/PixelForge
 ---
 
 ###  Featured Projects
