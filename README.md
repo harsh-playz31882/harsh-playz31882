@@ -7,7 +7,7 @@
 ### About Me
 - 🎓 2nd-year CS student specializing in **AI & Data Structures**  
 - 🎮 Indie Game Developer, currently working on **Project Eclipse**  
--  Exploring **multiplayer systems** and **Combat System in Unreal Engine** 
+-  Working on **Combat System  and Enemey AI in Unreal Engine** 
 ---
 
 ###  Featured Projects
