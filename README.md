@@ -6,17 +6,10 @@
 
 ### About Me
 - 🎓 2nd-year CS student specializing in **AI & Data Structures**  
-- 🎮 Indie Game Developer, currently working on **Project Eclipse**  
--  Working on **Combat System  and Enemey AI in Unreal Engine** 
+- 🎮 Indie Game Developer, currently working on **Paradox Division, a 1st person teamwork puzzle game with AI Assistant**  
 ---
 
-###  Featured Projects
-#### 🎮 [Project Eclipse](https://github.com/harsh-playz31882/Project_Eclipse)
-*3D Fighting Game with Story Mode & Multiplayer, built in Unreal Engine*    
-- using **C++ with Unreal Engine Blueprint Editor hybrid**  
-
 ---
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harsh-playz31882&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
