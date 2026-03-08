@@ -5,7 +5,7 @@
 ---
 
 ### About Me
-- 🎓 2nd-year CS student specializing in **AI & Data Structures**  
+- 🎓 2nd-year CS student specializing in **AI & Data Science**  
 - 🎮 Indie Game Developer, currently working on **Paradox Division, a 1st person teamwork puzzle game with AI Assistant**  
 ---
 
