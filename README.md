@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Harsh Jethwa</h1>
-<h3 align="center">Tech Enthusiast • AI & Data Structures • Indie Game Developer</h3>
+<h3 align="center">Tech Enthusiast  • Indie Game Developer</h3>
 
 ---
 
